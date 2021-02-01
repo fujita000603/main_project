@@ -1,0 +1,3 @@
+[submodule "sub_projecct"]
+	path = sub_projecct
+	url = https://github.com/fujita000603/sub_projecct.git
